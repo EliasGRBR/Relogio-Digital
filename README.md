@@ -1,2 +1,2 @@
 # Relógio Digital
- Meu primeiro repositorio no GitHub
+ Meu primeiro repositorio no GitHub.
